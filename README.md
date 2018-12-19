@@ -1,4 +1,4 @@
-# States, Cities, and Places for Woocommerce
+# Şehirler ve ilçeler Açılır Menüsü / Woocommerce
 
 Wordpress plugin that shows dropdowns for State and City Select for woocomerce
 
@@ -7,8 +7,7 @@ This WooCommerce plugin transforms the text input for states, the city or town. 
 This will be shown in checkout pages, edit addresses pages, shipping calculator, etc.
 
 ## Supported Countries
- * Chile
- * Nigeria
+ * Türkiye
 
 ## Requirements
 * WordPress 4.0  or greater
